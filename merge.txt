@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 aaaa
 
+=======
+fff
+>>>>>>> feature1
